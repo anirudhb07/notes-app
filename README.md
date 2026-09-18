@@ -3,7 +3,7 @@
 ## Candidate Details
 - **Name:** Anirudh
 - **Student ID:** 2026201058
-- **GitHub Repository:** [link](https://github.com/anirudhb07/Student-Notes-CRUD-Micro-App.git)
+- **GitHub Repository:** [link](https://github.com/anirudhb07/notes-app)
 
 ## Tech Stack
 MongoDB, Express, React (Vite), Node.js
